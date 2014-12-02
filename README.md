@@ -18,6 +18,7 @@ Use one of the scripts here.
 
 Version
 =======
+0.1.1 - changed host to boot2docker to use default certs
 0.1.0 - adding boot2docker-ip.sh
 
 ## License
