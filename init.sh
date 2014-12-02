@@ -1,6 +1,6 @@
 #!/bin/bash
 
-readonly LOGGER=color-logging.bash
+readonly LOGGER=color-logger.bash
 
 echo "Installing..."
 
